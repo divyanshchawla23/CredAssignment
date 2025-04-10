@@ -53,6 +53,8 @@ class MainActivity : ComponentActivity() {
 
 
 
+// blue if commited file is changed
+
 
 
 @OptIn(ExperimentalMaterial3Api::class)
